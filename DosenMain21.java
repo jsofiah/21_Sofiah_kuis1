@@ -8,8 +8,8 @@ public class DosenMain21 {
         dosen1.tahunMasuk = 2006;
         dosen1.jenjangPendidikan = "S2";
         dosen1.prodi = "SIB";
-        Dosen21 dosen2 = new Dosen21("002", "Siti Rahmawati", 2010, "S3", "Teknik Informatika");
-        Dosen21 dosen3 = new Dosen21("003", "Ahmad Fauzi", 2015, "S2", "Sistem Informasi");
+        Dosen21 dosen2 = new Dosen21("002", "Siti Rahmawati", 2010, "S3", "TI");
+        Dosen21 dosen3 = new Dosen21("003", "Ahmad Fauzi", 2015, "S2", "SIB");
 
         System.out.println("\n");
         System.out.println("----------------------------------------");
